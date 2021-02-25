@@ -6,6 +6,8 @@ transaction
 deposit
 withdraw
 loan
+cash
+
 
 
 
