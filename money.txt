@@ -6,10 +6,16 @@ transaction
 deposit
 withdraw
 loan
+cash
+
 
 
 
 Thank you
 
 
+
+done my changes
+
 Final copy
+
