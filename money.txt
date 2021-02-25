@@ -5,3 +5,4 @@ Welcome to bank
 transaction
 deposit
 withdraw
+loan
